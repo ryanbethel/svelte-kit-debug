@@ -14,7 +14,7 @@
     "@architect/architect": "^9.4.2",
     "@architect/sandbox": "^4.4.2",
     "@architect/sveltekit-adapter": "^0.0.4",
-    "@sveltejs/kit": "^1.0.0-next.147",
+    "@sveltejs/kit": "^1.0.0-next.201",
     "svelte": "^3.44.2",
     "tape": "^5.3.2",
     "tiny-json-http": "^7.3.1",
