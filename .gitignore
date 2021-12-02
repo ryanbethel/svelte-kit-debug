@@ -6,3 +6,5 @@ node_modules
 /functions
 .begin
 .svelte-kit
+sam.json
+sam.yaml

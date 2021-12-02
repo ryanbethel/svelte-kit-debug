@@ -11,6 +11,7 @@
     "test": "npm run test:integration"
   },
   "dependencies": {
+    "@architect/architect": "^9.4.2",
     "@architect/sandbox": "^4.4.2",
     "@architect/sveltekit-adapter": "^0.0.4",
     "@sveltejs/kit": "^1.0.0-next.147",
